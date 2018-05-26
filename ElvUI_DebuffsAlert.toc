@@ -1,0 +1,9 @@
+## Interface: 70300
+## Author: Lifeismystery
+## Version: 1.0
+## Title: |cff1783d1ElvUI|r |cff1783d1ElvUI_DebuffsAlert|r
+## Notes: ElvUI Debuffs Alert
+## RequiredDeps: ElvUI
+
+core.lua
+Modules\load_modules.xml
